@@ -78,7 +78,7 @@ Raw Data (CSV) -> Python (Pandas ETL) -> PostgreSQL Database -> Power BI Dashboa
 
 ## Project Structure
 
-Retail_Data_Engineering_Project/
+```Retail_Data_Engineering_Project/
 │
 ├── src/ # ETL scripts
 ├── config/ # Configuration files
@@ -87,8 +87,8 @@ Retail_Data_Engineering_Project/
 ├── notebooks/ # Jupyter notebooks
 ├── schema/ # Database schema
 ├── README.md
-├── requirements.txt
-
+├── requirements.txt 
+```
 
 ---
 
@@ -129,6 +129,11 @@ python src/pipeline.py
 - Machine learning integration
 
 ---
+
+## Author
+**Aditya Bhardwaj**
+
+GitHub: https://github.com/aditya-dlab
 
 ## Key Learnings
 - End-to-end data pipeline design
