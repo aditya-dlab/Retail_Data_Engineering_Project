@@ -22,13 +22,7 @@ This project builds a structured pipeline to convert raw data into analysis-read
 
 ---
 
-Raw Data (CSV)
-↓
-Python (Pandas ETL)
-↓
-PostgreSQL Database
-↓
-Power BI Dashboard
+Raw Data (CSV) -> Python (Pandas ETL) -> PostgreSQL Database -> Power BI Dashboard
 
 ---
 
